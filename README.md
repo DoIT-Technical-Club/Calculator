@@ -1,5 +1,5 @@
-# Calculator
-A simple Calculator app made in Android Studio using Kotlin.
+<h1 align="center">Calculator</h1>
+<h3 align="center">A simple Calculator app made in Android Studio using Kotlin.</h3>
 
 
 # For Contributing
